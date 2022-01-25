@@ -1,3 +1,15 @@
+#Menu {
+	position:absolute;
+	background-color:#eee;
+	border:1px dashed #999;
+	width:8em
+	}
+	
+#Content {
+	margin:0 50px 50px 11em;
+	}
+
+
 .styled-table {
     border-collapse: collapse;
     margin: 25px 0;
