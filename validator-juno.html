@@ -24,7 +24,7 @@
 <div id="Content">
 
 
-An algo will be running soon in order to report the missed blocks in 10 minute intervals. Therefore you'll be able to see our daily uptime. Juno first.
+An algo will be running soon in order to report the missed blocks in 10 minute interval format, every 16h. Therefore you'll be able to see our daily uptime. Juno first.
 
 <br>
 
@@ -35,10 +35,10 @@ An algo will be running soon in order to report the missed blocks in 10 minute i
 <table class="styled-table">
     <thead>
         <tr>
-            <th>Timestamp (UTC)</th>
+            <th>Timestamp (UTC)✝</th>
             <th>Missed blocks</th>
             <th>Uptime</th>
-            <th>Total Bytes Written* (TB)</th>
+            <th>TBW HDD03* (TB)</th>
         </tr>
     </thead>
     <tbody>
@@ -66,12 +66,19 @@ An algo will be running soon in order to report the missed blocks in 10 minute i
             <td>100</td>
             <td>27.328</td>
         </tr>
+        <tr>
+            <td>2022-02-05 20:00:00Z</td>
+            <td>0</td>
+            <td>100</td>
+            <td>28.081</td>
+        </tr>
     </tbody>
 </table>
-*Total Bytes Written: Both for Juno/Huahua together.
+<p>*Total Bytes Written: This node contains a juno|huahua copy. The HDD is monitored for write operations in order to learn the MTBF with TBW as the time passing variable.
 
-<p>16h aggregates (~10000 Blocks)
+<p>✝16h aggregates (~10000 Blocks)
  
+<p>ToDo: I/O write errors. This will be helpful to know when we need to discard the SDD. This should be zero always and the general recommendation is not running anymore the SDD in a node where the first IO writing failure has happened, therefore this detector will be a close call to the end of life of the SDD in order to trigger a replacement.
  
 <p><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /> Author: @windpowerstake. This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License.</a>.
 </div>
