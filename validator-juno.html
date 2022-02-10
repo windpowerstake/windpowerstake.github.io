@@ -36,10 +36,10 @@ An algo will be running soon in order to report the missed blocks in 10 minute i
 <table class="styled-table">
     <thead>
         <tr>
-            <th>Timestamp (UTC)✝</th>
-            <th>Missed blocks</th>
-            <th>Uptime</th>
-            <th>TBW HDD03* (TB)</th>
+            <th>Timestamp (UTC)<sup>16h</sup></th>
+            <th>Missed blocks<sup>16h</sup></th>
+            <th>Uptime<sup>16h</sup></th>
+            <th>Σ TBW* HDD03✝ (TB)</th>
         </tr>
     </thead>
     <tbody>
@@ -105,11 +105,15 @@ An algo will be running soon in order to report the missed blocks in 10 minute i
         </tr>
     </tbody>
 </table>
-<p>*Total Bytes Written: This node contains a juno|huahua copy. The HDD is monitored for write operations in order to learn the MTBF with TBW as the time passing variable.
 
-<p>✝16h aggregates (~10000 Blocks)
- 
-<p>ToDo: I/O write errors. This will be helpful to know when we need to discard the SSD. This should be zero always and the general recommendation is not running anymore the SSD in a node where the first IO writing failure has happened, therefore this detector will be a close call to the end of life of the SSD in order to trigger a replacement.
+<h4>Terms & Concepts</h4>
+<ul>
+<li>*Total Bytes Written: This node contains a juno|huahua copy. The HDD is monitored for write operations in order to learn the MTBF with TBW as the time passing variable.</li>
+<li>✝: Particular component, serialized by us. Details about each part will follow.</li>
+<li><sup>16h</sup>:  16h aggregates (~10000 Blocks)</li>
+<li>ToDo: I/O write errors. This will be helpful to know when we need to discard the SSD. This should be zero always and the general recommendation is not running anymore the SSD in a node where the first IO writing failure has happened, therefore this detector will be a close call to the end of life of the SSD in order to trigger a replacement.</li>
+<li>Σ : Cumulative sum during the entire life of the applicable component.</li>
+</ul>
  
 <p><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /> Author: @windpowerstake. This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License.</a>.
 </div>
