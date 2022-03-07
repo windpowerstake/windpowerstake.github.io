@@ -48,12 +48,6 @@ An algorithm will be running soon in order to report the missed blocks in 10 min
     </thead>
     <tbody>
         <tr>
-            <td>2022-02-28 01:00:00Z</td>
-            <td>6</td>
-            <td>99.94</td>
-            <td>51.345</td>
-        </tr>
-        <tr>
             <td>2022-02-28 17:40:00Z</td>
             <td>1</td>
             <td>99.99</td>
@@ -113,6 +107,12 @@ An algorithm will be running soon in order to report the missed blocks in 10 min
             <td>99.92</td>
             <td>59.079</td>
         </tr>
+        <tr>
+            <td>2022-03-06 09:10:00Z</td>
+            <td>1</td>
+            <td>99.99</td>
+            <td>59.892</td>
+        </tr>
     </tbody>
 </table>
 
@@ -123,10 +123,22 @@ An algorithm will be running soon in order to report the missed blocks in 10 min
 <li><sup>16h</sup>:  16h aggregates (~10000 Blocks)</li>
 <li>ToDo: I/O write errors. This will be helpful to know when we might need to discard the SSD. This should be kept at zero and the general recommendation is not to continue running the SSD in a node where the first IO writing failure occured; therefore this detector will be a good indicator of the end of life of the SSD in order to trigger a replacement.</li>
 <li>Σ : Cumulative sum during the entire life of the applicable component.</li>
-<li>🔧: Node under planned maintenance, switched nodes and an SDD will be changed.</li>
-<li>⚡: 3 minute downtime. Due to severe thunderstorms in Spain we had power outage and we had to reset the connection (we have UPS in place). Since it came back and peered before 3 minutes we did not took action.</li>
+<li>🔧: Node under planned maintenance (2022-03-04), switched nodes and an SDD has been changed. For huahua our intention is to maximize data availability, so we installed 4TB SSD at the moment and we'll evaluate if this is sufficient the exact moment in which smart contracts and authz is activated. We are covered by NVME instances of huahua as well so we are ready to do the switch instantly. Gathering data for the cosmos here :D.</li>
+<li>⚡: 3 minute downtime (2022-03-04 at 02 am of our timezone :S). Due to severe thunderstorms in Spain we had power outage and we had to reset the connection (we have UPS in place). Since it came back and peered before 3 minutes we did not took action.</li>
 </ul>
- 
+
+
+<h4>Alternative tools in order to monitor your favourite nodes</h4>
+<ul>
+<li>chihuahua-stats by [block pane]: <a href="https://chihuahua-stats.blockpane.com/">https://chihuahua-stats.blockpane.com/</a></li>
+</ul>
+
+<h4>On slashing parameters</h4>
+<ul>
+<li>Medium article on the start stages of the hub, explaining slashing: <a href="https://medium.com/node-a-team/understanding-few-key-features-of-cosmos-hub-87394317d10a">https://medium.com/node-a-team/understanding-few-key-features-of-cosmos-hub-87394317d10a</a></li>
+</ul>
+
+<br>
 <p><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /> Author: @windpowerstake. This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License.</a>.
 </div>
 </body>
