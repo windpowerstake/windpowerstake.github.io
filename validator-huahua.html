@@ -48,18 +48,6 @@ An algorithm will be running soon in order to report the missed blocks in 10 min
     </thead>
     <tbody>
         <tr>
-            <td>2022-02-28 17:40:00Z</td>
-            <td>1</td>
-            <td>99.99</td>
-            <td>52.210</td>
-        </tr>
-        <tr>
-            <td>2022-03-01 10:20:00Z</td>
-            <td>2</td>
-            <td>99.98</td>
-            <td>53.066</td>
-        </tr>
-        <tr>
             <td>2022-03-01 13:50:00Z</td>
             <td>4</td>
             <td>99.96</td>
@@ -113,6 +101,18 @@ An algorithm will be running soon in order to report the missed blocks in 10 min
             <td>99.99</td>
             <td>59.892</td>
         </tr>
+        <tr>
+            <td>2022-03-07 01:50:00Z</td>
+            <td>4</td>
+            <td>99.96</td>
+            <td>60.743</td>
+        </tr>
+        <tr>
+            <td>2022-03-07 18:30:00Z</td>
+            <td>0</td>
+            <td>100</td>
+            <td>61.654</td>
+        </tr>
     </tbody>
 </table>
 
@@ -123,11 +123,10 @@ An algorithm will be running soon in order to report the missed blocks in 10 min
 <li><sup>16h</sup>:  16h aggregates (~10000 Blocks)</li>
 <li>ToDo: I/O write errors. This will be helpful to know when we might need to discard the SSD. This should be kept at zero and the general recommendation is not to continue running the SSD in a node where the first IO writing failure occured; therefore this detector will be a good indicator of the end of life of the SSD in order to trigger a replacement.</li>
 <li>Σ : Cumulative sum during the entire life of the applicable component.</li>
-<li>🔧: Node under planned maintenance (2022-03-04), switched nodes and an SDD has been changed. For huahua our intention is to maximize data availability, so we installed 4TB SSD at the moment and we'll evaluate if this is sufficient the exact moment in which smart contracts and authz is activated. We are covered by NVME instances of huahua as well so we are ready to do the switch instantly. Gathering data for the cosmos here :D.</li>
+<li>🔧: Node under planned maintenance, switched nodes and an SDD has been changed. For huahua our intention is to maximize data availability, so we installed 4TB SSD at the moment and we'll evaluate if this is sufficient the exact moment in which smart contracts and authz is activated. We are covered by NVME instances of huahua as well so we are ready to do the switch instantly. Gathering data for the cosmos here :D.</li>
 <li>⚡: 3 minute downtime (2022-03-04 at 02 am of our timezone :S). Due to severe thunderstorms in Spain we had power outage and we had to reset the connection (we have UPS in place). Since it came back and peered before 3 minutes we did not took action.</li>
 </ul>
-
-
+ 
 <h4>Alternative tools in order to monitor your favourite nodes</h4>
 <ul>
 <li>chihuahua-stats by [block pane]: <a href="https://chihuahua-stats.blockpane.com/">https://chihuahua-stats.blockpane.com/</a></li>
