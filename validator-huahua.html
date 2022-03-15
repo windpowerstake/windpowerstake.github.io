@@ -48,18 +48,6 @@ An algorithm will be running soon in order to report the missed blocks in 10 min
     </thead>
     <tbody>
         <tr>
-            <td>2022-03-07 01:50:00Z</td>
-            <td>4</td>
-            <td>99.96</td>
-            <td>60.743</td>
-        </tr>
-        <tr>
-            <td>2022-03-07 18:30:00Z</td>
-            <td>0</td>
-            <td>100</td>
-            <td>61.654</td>
-        </tr>
-        <tr>
             <td>2022-03-08 11:10:00Z</td>
             <td>1</td>
             <td>99.99</td>
@@ -113,6 +101,18 @@ An algorithm will be running soon in order to report the missed blocks in 10 min
             <td>99.86</td>
             <td>69.692</td>
         </tr>
+        <tr>
+            <td>2022-03-14 17:10:00Z</td>
+            <td>2</td>
+            <td>99.98</td>
+            <td>70.604</td>
+        </tr>
+        <tr>
+            <td>2022-03-15 09:50:00Z</td>
+            <td>6</td>
+            <td>99.94</td>
+            <td>71.520</td>
+        </tr>
     </tbody>
 </table>
 
@@ -123,7 +123,7 @@ An algorithm will be running soon in order to report the missed blocks in 10 min
 <li><sup>16h</sup>:  16h aggregates (~10000 Blocks)</li>
 <li>ToDo: I/O write errors. This will be helpful to know when we might need to discard the SSD. This should be kept at zero and the general recommendation is not to continue running the SSD in a node where the first IO writing failure occured; therefore this detector will be a good indicator of the end of life of the SSD in order to trigger a replacement.</li>
 <li>Σ : Cumulative sum during the entire life of the applicable component.</li>
-<li>🔧: Node under planned maintenance, simple node switch in order to gather data / behaviour from a new machine.</li>
+<li>🔧: : Node under planned maintenance, simple node switch in order to gather data / behaviour from a new machine..</li>
 <li>⚡: Power outtage (if any), nodes are covered by an UPS, and now all the fiber routers are also covered by UPS. We would be ready to cover power outtages and/or switch node safely if necessary.</li>
 </ul>
  
