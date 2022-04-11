@@ -48,18 +48,6 @@ An algorithm will be running soon in order to report the missed blocks in 10 min
     </thead>
     <tbody>
         <tr>
-            <td>2022-03-28 14:50:00Z</td>
-            <td>0</td>
-            <td>100</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>2022-03-29 07:30:00Z</td>
-            <td>0</td>
-            <td>100</td>
-            <td></td>
-        </tr>
-        <tr>
             <td>2022-03-30 00:10:00Z</td>
             <td>0</td>
             <td>100</td>
@@ -131,18 +119,29 @@ An algorithm will be running soon in order to report the missed blocks in 10 min
             <td>100</td>
             <td></td>
         </tr>
+        <tr>
+            <td>2022-04-10 09:00:00Z</td>
+            <td>2</td>
+            <td>99.98</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-04-11 00:40:00Z</td>
+            <td>137</td>
+            <td>98.63🔧</td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
 
 <h4>Terms & Concepts</h4>
 <ul>
-<li>2022-02-27 around 13.30 UTC, we did planned maintenance around the Juno node. Alltogether it took 7 minutes (67 missed blocks, including peering).</li>
 <li>*Total Bytes Written: This node has been updated with a new NVMe drive, and therefore the TBW needs to be worked around.</li>
 <li>✝: Particular component, serialized by us. Details about each part will follow.</li>
 <li><sup>16h</sup>:  16h aggregates (~10000 Blocks)</li>
 <li>ToDo: I/O write errors. This will be helpful to know when we might need to discard the SSD. This should be kept at zero and the general recommendation is not to continue running the SSD in a node where the first IO writing failure occured; therefore this detector will be a good indicator of the end of life of the SSD in order to trigger a replacement.</li>
 <li>Σ : Cumulative sum during the entire life of the applicable component.</li>
-<li>🔧: Node under planned maintenance.</li>
+<li>🔧: Node under planned maintenance. 10.04.2022 we patched juno. We prefered to do also a backup of the data folder just in case, so we missed a bit of blocks.</li>
 </ul>
 
 <h4>Alternative tools in order to monitor your favourite nodes</h4>
