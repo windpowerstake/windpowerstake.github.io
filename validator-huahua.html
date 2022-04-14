@@ -47,10 +47,6 @@ An algorithm will be running soon in order to report the missed blocks in 10 min
         </tr>
     </thead>
     <tbody>
-            <td>5</td>
-            <td>99.95</td>
-            <td>48.313</td>
-        </tr>
         <tr>
             <td>2022-04-05 02:00:00Z</td>
             <td>0</td>
@@ -59,13 +55,13 @@ An algorithm will be running soon in order to report the missed blocks in 10 min
         </tr>
         <tr>
             <td>2022-04-05 14:30:00Z</td>
-            <td>45</td>
+            <td>45🔧</td>
             <td>99.55</td>
             <td>50.212</td>
         </tr>
         <tr>
             <td>2022-04-06 07:10:00Z</td>
-            <td>18</td>
+            <td>18🔧</td>
             <td>99.82</td>
             <td>51.840</td>
         </tr>
@@ -117,6 +113,12 @@ An algorithm will be running soon in order to report the missed blocks in 10 min
             <td>99.99</td>
             <td>60.761</td>
         </tr>
+        <tr>
+            <td>2022-04-14 22:20:00Z</td>
+            <td>1</td>
+            <td>99.99</td>
+            <td>108.875</td>
+        </tr>
     </tbody>
 </table>
 
@@ -127,7 +129,7 @@ An algorithm will be running soon in order to report the missed blocks in 10 min
 <li><sup>16h</sup>:  16h aggregates (~10000 Blocks)</li>
 <li>ToDo: I/O write errors. This will be helpful to know when we might need to discard the SSD. This should be kept at zero and the general recommendation is not to continue running the SSD in a node where the first IO writing failure occured; therefore this detector will be a good indicator of the end of life of the SSD in order to trigger a replacement.</li>
 <li>Σ : Cumulative sum during the entire life of the applicable component.</li>
-<li>🔧: : Node under planned maintenance, simple node switch in order to gather data / behaviour from a new machine..</li>
+<li>🔧: Node under planned maintenance. Installing a spare nvme hard drive.</li>
 <li>⚡: Power outtage (if any), nodes are covered by an UPS, and now all the fiber routers are also covered by UPS. We would be ready to cover power outtages and/or switch node safely if necessary.</li>
 </ul>
  
