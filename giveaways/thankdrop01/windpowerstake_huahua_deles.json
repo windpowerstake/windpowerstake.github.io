@@ -1,0 +1,1900 @@
+{
+  "delegation_responses": [
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1q8k9j0xnyns5khnchyaqza494cwcgjl6nt23gl",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "875000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "875000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1qvj6xdgtfa3w5n63733wlu4qscenvak0x9htzn",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "26910000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "26910000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1qhmh68tw2ezmu5nvt5fzx0ctwkglfex4jkj67z",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "52854800000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "52854800000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1qepq445a6vktwwlcvce9eaq8f8cqrvalephxk4",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "1101000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "1101000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1qly96sy3yklkwv6cf4he5ves4qu8yn58ea7wn5",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "100000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "100000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1py7vnejer4auv8e0dyexvgkas4q08wppjyl99y",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "2000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "2000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1pgwf50mvx6d9cwqv822dz42nsml5g9mepk0gn8",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "126726000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "126726000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1p0xc8vz6m72velt8xera2quz3xs9ee6c6ezpg3",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "21000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "21000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1p3xtqsahnfutmrw7j5j42n2mm3hrk2g528582r",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "4052000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "4052000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1zpwgvwjkcpa695f6wmq9npsj204qc90wndx44u",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "2070000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "2070000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1zpe38lmsg8tq4s4yxe3f4rtefdgq9pnnjmkp6z",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "3547450000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "3547450000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1ztpayych9mujf94klv8xvp4j32x2pzq9huedt9",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "1000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "1000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1rpxwl8utqxrvyw4zccldwhg2s8cmc3qupt3y44",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "468000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "468000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1rz3qkrhagrmn5ucc7fjunapacw8s9pjs2ex5mm",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "50000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "50000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1r9yul65duh99y7u6934qve6ac45aymx8t4s9hg",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "50000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "50000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1r937v5yvx44kckp089asc3tqrqhxr7thmxy3yu",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "54000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "54000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1rvqu6qjl325ldnl7swlrn2n88dxzql00z3lemy",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "1000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "1000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1rdhxg6rmqd0mtkmal3x6sq02nwn08r3v36529x",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "12197400000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "12197400000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1ralj6tq4epcyrqnmjvuuegs6k9larlhgxynjzm",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "10101000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "10101000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1ypff4memnts7c8qhp03xexy3xs8r6zd4nq60a5",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "3181000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "3181000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1y2m2w0g0fg3gdhsdz442kd3atd3npujhks5z09",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "700000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "700000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1y5v2lenpfdagencjylmcx0fyyjtgeppgkwh8ch",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "10000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "10000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua19xekllm6fst8tx2s0gpt9p75ksz8ag5u4c4sv6",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "3912910192.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "3912910192"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua190u9qqcqrpz6hw632ljrpdv5v6q97p9w2m6k9e",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "10235000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "10235000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua19kvla8xpm44zp0gj0gdfqfggh5m60p8r9p37ug",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "112000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "112000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1xxpd2e9apcw3l55ku46d09jmdp3f2h9grfqc2t",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "500000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "500000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1xg3jhs6d0s56gkrzwqjrc26tuafxxu6wrwvhy3",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "1001100101.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "1001100101"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1x2cv068df7kzy438fwsq0jrd2z4mgvls0lu44r",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "300000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "300000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1xs79nssadxszdaefjwsvd8wsea965sthax3znc",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "107415027533.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "107415027533"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1xjvdgvrhtawlu8pkanqpw6h5nd9gxqqruakm70",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "265154000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "265154000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1xm26944klp4ynssyn3dt5rztkd9lxfv085wx47",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "1890000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "1890000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1x7pf6ga8ehf7eqhxu5malvr0e9uqnnrs359g08",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "6815000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "6815000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua18p8qe7k3ur0ak0xavc57h2nwqndtl8vlhu3942",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "956779799998.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "956779799998"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua18y99h5vmlvyucvva952zvrlzmhdpnc7k9vzkam",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "31250000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "31250000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua18fu8acudhgk3s25gzmg94yqdj3t83jutferrq8",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "3257770000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "3257770000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua18d8cdmlsx9ztrd4qpjk4qvax24pnjy23znrdep",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "5007279534.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "5007279534"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua18ns3ddvs6xg7supjddufpqa9r0d4fwevwvknwh",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "70000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "70000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua18n5f3weawsldmddxr8c6ffd97yuz9xp44yj7c5",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "145000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "145000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua18hx08m278r4lm6zrwlxwq9224gugrqlnqdwxlk",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "1723000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "1723000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua18hep38745h0rg24wtgem7sw69lp65t0t3ww667",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "20000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "20000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1gyhra2v36kgm2e2mt7863hsvls8zjkduah5rks",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "100000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "100000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1gylzr0qr6ekq6cpwcjlttqtyyveen74grq7zzc",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "100000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "100000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1g9yrtv8s9xq3qt6nch04fwsq5mr62nvztjxatt",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "9000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "9000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1g2mjkrugdjr0h75cwg9ml5r8ynltd4z9kjy730",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "50000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "50000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1gtzazqzhg3sczpwtft23x4r46d4zlxnfax505m",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "18500000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "18500000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1g0dgu4zt5p0l9qevagf7sgectqel06lwcsetz8",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "21046000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "21046000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1gsggw9wt98nwex8ntyhch2q4ehwtr0mvasdfg8",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "10072000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "10072000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1g452jgl4f2gygafw0ptgqec9melw452felhkr7",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "217980500000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "217980500000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1g68f9dpwg3jvxxe8l83tvfw39kay6e3fagta5m",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "5001000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "5001000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1frswu85mm0t73qmahru07l3hmgrtx05gp2yje2",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "4958000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "4958000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1fxa8uludtua36fgj5l8rh0drvn8m0a6he7taav",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "130000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "130000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1fwmcetqmn2re4dfcq9gh3xzhsj0vc2mqc3fdn2",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "7999999999.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "7999999999"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1fu9kr29n7d0k59dtezkl09pz8rwazykfm5pva3",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "8730000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "8730000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua12rg6ur95r3e03gr47q8q93hxf2vszll88lapwp",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "20485200000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "20485200000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua12vyyl4xf8x9tjzgcnl2p5t8jm6mw4uzrz3rq6j",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "2163017518.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "2163017518"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua12wpvrulzw9kp3qrx8xtrw3z739mh4ys8fw68y3",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "148723649179.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "148723649179"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua126aq0yltg0mm0rcvap86unys026gz9x9mxwp3s",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "4247000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "4247000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1tr4wrydnh3fugxyn23l8zd5tw46wu2vw5f6juk",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "289515000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "289515000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1t9nd2wcgjxkw7mvgzm7z70vl6jf408u7r9q9jy",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "150000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "150000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1tfdqm5d3paekqslvexsk3nw506l95ylc25l8jq",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "50000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "50000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1ted047fe3lsqt22uraq5tqvgupkq8ues3wf6ex",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "50000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "50000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1vqp88kzuvllwr57m6r38dghy6w64qvv783l7k0",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "20000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "20000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1vp34ac679pufq7yapqd7amqje623dyh9yul906",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "500000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "500000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1vzzxk5knha3s6wdeqr2vcac83sa028dwl5722q",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "25000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "25000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1vss2mjwex48e2420nwyhe45a9ql4fre48sl4uk",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "1600000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "1600000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1vs3drav5z7aclucz85eta40y9gk6m22svprh43",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "6112000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "6112000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1v3y2evk9vrkxdfnn2gxx96r8zjejyr5zqfu8xa",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "10000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "10000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1v7gsdfm09zdv2l5yyzn2pw28sfnuhj4680ung7",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "22011000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "22011000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1v77a2rmlf5zx39fqqu23w4xk75hkmk6kgs8d0f",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "5687000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "5687000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1vlgnpg46f6jexlgrdquhfv7eny3rl8k8khlp7y",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "61928463926.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "61928463926"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1vlhddc9q5me2n6hxalw2ka4mwfcuply650anmg",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "60000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "60000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1dzx3fuh5vljvs2jthdxygxg3j7wvz8rusgfqel",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "40759100044.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "40759100044"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1dtmqur3n8zcrk5qrvd5qvujhzwduuqxk4yu2mx",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "724000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "724000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1dswkrjk52mmz3n7sdre4xw3f2vv9q97fzvpsdy",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "4000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "4000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1ds0spl74p7hvxt039s9mazygrpg6f9ashh08xv",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "700000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "700000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1dep3djza75nyz26m5zj73zfrgcl07lvqt94z2g",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "4748490000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "4748490000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1w9n2m9lxfpedg50r0wj7f8wgnv5720s6807epp",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "111000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "111000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1wx0mksgjpthufn4twu5534xmesf7vtdf74v7s2",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "3863000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "3863000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1wh3nwe6gcgf3vld5vlfthjqk40wxkh002z440x",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "18432624115.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "18432624115"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1w6tlmsmeqpyu5l7kskhswuy9hgejn4ysdrw5c2",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "39999999.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "39999999"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1w6n8wg0se2alsdru6ttp7lwmrkspvh7map6w3a",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "119682841847.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "119682841847"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua109gr65ft2jc6sz44mffhaa9cle0nz05eflgdms",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "15281888746.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "15281888746"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua10gvgsutdqd7lxwzsjm2g3uz4e3stduxr50ykpp",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "1266850000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "1266850000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1sznvffkrlr3eqq4mfl90j56v0x47f2t2lsm8cq",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "27825000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "27825000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1s2gzee9tw4l80wq00wpkmmzskrjw3uxadwjlwz",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "13802000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "13802000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1sw8505dfdglvxtu56p7lnxzpj0euv23dgr5auy",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "4366579035.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "4366579035"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1seyua7q4tswljgraf87z3y5670uye02q4658pa",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "420000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "420000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1sekljtewgs8cl3g87dv5wwjnzdgapknuhnn70l",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "200000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "200000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1su258r7mgfnzvnl707r3nug7heyg7tq7ypnq5s",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "1100000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "1100000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua13vcc39q4v8aupx0ccxxhscg0l9karkjwgvc03c",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "8200000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "8200000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua13306hrp8e9y9z8lv5h2eccupffj8kw95uqc5j6",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "1111100001.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "1111100001"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua13c6mgnfve6ja9y0jx5v0j2ylsx05nj7tk322jg",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "55077560000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "55077560000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1jp8uzrt8p7g27q9xgv8s7kzyktzhhklj34ycm7",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "10000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "10000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1jpkh0h7npgp3cq3cy2xt25tus7k7kfey7k79q2",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "65000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "65000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1j9ztt8dpemd7r3tesa9tk0qtc9nhjkaw34pfal",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "56108326200.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "56108326200"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1j9en47cu0k29j8xgyfxltruneeaw2rznjqz9u0",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "2000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "2000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1jxpztalf3skjftyrlf3tpd3c94g2nqkacdqxxd",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "77284000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "77284000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1jujv7skwzzftrmdwzjajj0xd8fedcq75yl34d5",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "4697000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "4697000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1npuv3gk207qs3fpg885ywmu5yas6a4hkcz930l",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "120000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "120000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1nf7jwhqnv2ycdcgehc59g92p862786dgh24n9r",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "20081185.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "20081185"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1nwkvkm2rwfm9wve2cl3h8gvs7cvcfhj2sk728v",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "3081470879.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "3081470879"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1nckqhfp8k67qzvats2slqvtaf3kynz66pvhjqh",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "22529000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "22529000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1na6nvfpzmc8menehuc0zsskzht2vghk0eg3cmc",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "1830000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "1830000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua15jc2hdsyc4glj3kaet3k40lhrqxe7gqx2w7gd4",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "140000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "140000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua15acw7sqca47e5gu4cz59eqrl94e4q6ky5h0zq8",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "447294000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "447294000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua14z4f2latmve9jq9f57eqv5rm2dsajr0mlls29r",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "10000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "10000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua14frytrnwp2zkdrk8rcukeh0pu2f9dmjex5r8wr",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "50000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "50000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua14fketv99hlrlk80mkggw643spsj3yyf7qylvqn",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "8200000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "8200000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua142zrdg7e8spfgypz7xhkry65mkuw26lthukjta",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "270761000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "270761000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua14swgthmxgkvtpz4y0d986a0aqmw8ewdwlxh2ud",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "23056500000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "23056500000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua145zmy3lgrkdhrnakprr5s00yc8r2g85r6psnwp",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "584414999.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "584414999"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua14cy7x6xwysrnlznah6jhhc59q4dfgs5n55l42p",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "40000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "40000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua14u835lnjj8u7zelkv0tdjp3cff39psm80cp50j",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "1744000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "1744000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1kqh8fjrpj2cqmunfx7fmz0rxfyx06l3fyl3sak",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "12646000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "12646000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1kqeaj0jdphxvshm9hrdhp3d8m4pljdcx0r4rmp",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "68000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "68000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1kfvk20lhr05dsnrcxtaalzmcsdjjv9tuz7aa0x",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "19060000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "19060000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1ksp9ytyyuenddee0k78pgzkk28mdhr5n6hxvt0",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "5000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "5000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1kksufautx29fvmjvm60m9w02uv75a33r95k6s7",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "2505000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "2505000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1kk656uunzu55r6n45mmjpxup8dhw0tpf25vnds",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "5280000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "5280000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1h4f2hypursylg3evaw66n0qydjqmag7udrzaaz",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "3124041000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "3124041000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1hktq9ypcjkth0ftu4zlhl44crm57g5zsngarn9",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "85347802695.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "85347802695"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1hc7a3gtn6l60x4w66jv9x7dupqw4gqy087475m",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "2860000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "2860000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1hetfcetglptq9ftj0j0x463eanu942ppjd5cy9",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "1000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "1000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1ha0qpvmnj3u5xd4njsvka8vhtr5tvputchkkq9",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "1000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "1000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1cy9jhuf3cx2z33duxld7p57gtege6hfhf7y9xj",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "3439311564034.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "3439311564034"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1cv8803vhhew946kmn95yd0dezpmfd7avr0rp29",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "3586812730.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "3586812730"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1cd9kptynf4yyacg9uhmtduhe8ss9z92q69twmg",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "13759000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "13759000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1cneq88nt7yq6c2u9v6u8sef206ps69dmq4zf5u",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "23438000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "23438000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1chhvzwguf4ymxm99nkn7ugrhdwpwyvnpggat7h",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "48033000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "48033000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1cc7py25mkrzsuze5tn9jlf0jju72yr3cw54nfn",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "2721200000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "2721200000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1c7ynafhtdth3wlqas8hya3z6c45j5d86wgja66",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "32000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "32000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1e8ck666s6dped2q0rhdepfxt3dkrck2u5h5xju",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "15000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "15000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua16gagrsy4sj7v63s9dfncka2phkh8pkzayunxn0",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "3982584085.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "3982584085"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua162ftc5he0e8f98q30cft7r2a0lqy0890fmg7r7",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "69996000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "69996000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1mqpky5jf0n98pccn8f69gd9a36sqy9u3znjsj2",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "15784000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "15784000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1mzk360e8tagp3j8wc7crywgnlfm7ttfqcmhxxe",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "5263000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "5263000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1mvk8603ksv5spt9epgruemcqdh3qruzejc7jls",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "119335483585.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "119335483585"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1mw9wckjvpxvkgxhr8dxk93cmudpc9cw3j59h0x",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "500000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "500000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1m35w9q02hf30x8mw7yja48lnmlmg9ysaqjnkhd",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "11175173663.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "11175173663"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1m4rtxl4lq4vjkcdyfxes5r3q2zr9uthsp3dzk3",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "155401000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "155401000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1m4tqkvw22zgl4w9nyzfeyccnk696r6w7gh3rru",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "3965274384.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "3965274384"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1mclsy9uesj8wku9tfzrlpx3acg8h7z5kgrjnng",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "50657000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "50657000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1meeffrydc7htfy8n3rsvcwydd6pzcm9c0ntajh",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "43048560000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "43048560000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1mlawj53xggwzy6v0fpgdycuyfhefswrvkc0ac7",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "2186747916509.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "2186747916509"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1u2zjcdl3606gz4wg0yc6mnkpudyfv4twnf5tvt",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "10000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "10000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1u24k35c299hwjrxj9ylmh4v2hc32u5535373el",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "152323000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "152323000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1uwdye7gdyulq8rrz8ycj2yysp9z6jdpls90szk",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "161134163000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "161134163000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1u5r0j0jytzk2c5z5wswlzy4h385elwwxwumxgg",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "100000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "100000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1uhq22sskdws9dvn3anrrqhn8tdkgq8vuyht0je",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "15498000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "15498000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1uh7qk3mxa0hd4f3rr55rq6jty8szf3hegwaarx",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "733000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "733000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1uunsymackqhp7lt03kmfaxwp3xlanprwrdqt9l",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "1000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "1000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1ua58fyeup9mfvpv3lgqj7s5kcx8urfhnsgl8vs",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "2000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "2000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1aq2qrrr9jqdt6wj32edlazfy64ajt9fv4nnzqz",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "1000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "1000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1a9vgr6f2ag4lkz0jrd9t2uyxp3yqagn6j0us8x",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "136015000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "136015000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1atd3wwum0m2n7pek4wstxm2efmpq5s57r99z2c",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "2590000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "2590000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1ae3un4p3q8kkqxqar4f3g6tv3djna9k0zwh6zk",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "130000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "130000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1am80fauk3gnzcr76ylg0yju4f0chen5xscr6r8",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "344435182999.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "344435182999"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1a7rtd87utqxy6sk2jdgrscsunpry9dekuuaq83",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "17337242291.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "17337242291"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1alkdscdvdpul2a076fakmjwjs7dkhxmdy3m5kt",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "2923000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "2923000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua17qk3ls39da2p697a7jlpevccmaaekhrhhve9la",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "250000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "250000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua17ry7yg9d55sjrtdh04xe7p723p9ckl2yv5z5su",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "5000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "5000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua17y2hms5mj50p4xhu9gf9hh90f5lyqn3z5kk239",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "100000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "100000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua17gl6er5798z79ckqv99kz8an2dryl5n5kcm26z",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "650000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "650000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua173fm9vx7c0j5dac59fk6yh0qekhpjg8j2wnmhw",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "3000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "3000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua175gpgxnetdrgjpde8476lrpgy9j609dt4egstx",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "3400000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "3400000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua17h38jt0wej5jfuz2slvyjftr25cxzv4t5k2d5n",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "4081718479584.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "4081718479584"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua17hu04u8rev3pmvp3xhcarerejayw2kskvwkymx",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "75595668497.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "75595668497"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua17m4804kq3yd74p090fcm6dg44vp8xq2d67gmv0",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "11000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "11000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1lyvc50gtq45ljnlsqg5nygufqppek79nklupdw",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "1711000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "1711000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1ld5c2azzsuqkmunds4x5etzw2ghct8pxx5ked5",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "3000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "3000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1lsqgj5e0xd3yyracvx726u5rc469sqmf2smtmp",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "1299900000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "1299900000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "chihuahua1luztw8njjh9vjl3p2zh2f7k3z0tnsy80wxaa5x",
+        "validator_address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+        "shares": "72237500000.000000000000000000"
+      },
+      "balance": {
+        "denom": "uhuahua",
+        "amount": "72237500000"
+      }
+    }
+  ],
+  "pagination": {
+    "next_key": null,
+    "total": "0"
+  }
+}

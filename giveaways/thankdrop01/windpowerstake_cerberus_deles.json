@@ -1,0 +1,624 @@
+{
+  "delegation_responses": [
+    {
+      "delegation": {
+        "delegator_address": "cerberus1q804sacllc07va0nxrkje4jmk0m3eku70ev5ea",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "3497680496.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "3497680496"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus1qe86f8rt3hlzsspf7efq3h0c3dlsyfqwhycz4a",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "119602306072.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "119602306072"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus1qe5ec09wp00k6xu3kkzpjdt62gdtax7dmyc8kd",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "98000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "98000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus1pdgrnyggvpr0egqfur0vsdcwwzl3zfs88wfssz",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "30821412350.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "30821412350"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus1pj9e89gc8dkvv72wh5qdsxwrnwzev8tvms90yg",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "830812000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "830812000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus1ztpayych9mujf94klv8xvp4j32x2pzq9gw52lv",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "3874480000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "3874480000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus1rkn82c2qe9ls9a9a3gfa2sfcxe230mm6x9qupu",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "11775800000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "11775800000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus1ralj6tq4epcyrqnmjvuuegs6k9larlhgek74kj",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "3576.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "3576"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus1y99uegs09lmhth6cns8u5h2jwmcg5688e7xjka",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "66000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "66000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus1y4qs5043t8fq0637tmu5l5yrw3nhwmfnvyy8at",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "36645000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "36645000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus1xxzp5xxj2mdu0ssn52p6xrp0895djsredfjmxh",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "20000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "20000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus1x5gsw9la0ym2l4nz8fy9ss2pr0d9nanqy4qz84",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "126720.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "126720"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus1x6gvw82e27x6jkxmh8jlelmj4gn6mwlpy6gs5y",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "17280949964.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "17280949964"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus18p8qe7k3ur0ak0xavc57h2nwqndtl8vlgwuzpr",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "1116149696182.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "1116149696182"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus1gf3zfhe3uc4f3nah8cysgdy3va32xxe2gytjlp",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "44450000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "44450000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus1frswu85mm0t73qmahru07l3hmgrtx05g7cf4dr",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "12062000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "12062000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus1fvq592zsp3ekafsqaet4npwutkv2npn4amnjrj",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "34500850000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "34500850000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus12rhnsnv56zceh0lp6qvswv0y94z6kxz6ylzwaj",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "47130930000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "47130930000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus12lan46dtm0f6lkaaskxz8vqqn0eaxw8sfm7rxe",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "1860808232.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "1860808232"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus1vzzxk5knha3s6wdeqr2vcac83sa028dwqxnd7f",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "100000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "100000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus1v8k95q0fu4cu07mez2kz5sn8rk629k6cqmdxp0",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "290000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "290000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus1vn97l4slukxanq4hqtj897hf43yknsm9vlvlus",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "15000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "15000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus1vlgnpg46f6jexlgrdquhfv7eny3rl8k8f9jx2d",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "68973086120.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "68973086120"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus1d65jeqw3kvk6kegp9p2q3t358077062vfve3y8",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "39568797547.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "39568797547"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus1wraa5hm4fc9xc8tf7xujjrw6r0sw9ta5qmumm2",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "10000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "10000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus1w70q3ctu35689m8l6gggvhmwrmfcrqmv79ty5h",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "100126573277.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "100126573277"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus109gr65ft2jc6sz44mffhaa9cle0nz05ekd920e",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "2073800000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "2073800000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus100xcnt5x5c6z98dr9pmmtmxpq7fzykx422kzyh",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "1146039948.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "1146039948"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus13306hrp8e9y9z8lv5h2eccupffj8kw95rj4nxn",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "29688000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "29688000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus1jwh99fd6ft420jm4x2cu3y2xt9ww7dase9h3tt",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "2710290000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "2710290000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus1js2p0vzlwh4r0wruz8hy29m73vn3jejp6dzqf3",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "85341000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "85341000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus1n2t4n5zjcl0e2j4p9n6usmrgvtyk5h4y4txyg9",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "12443930000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "12443930000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus1n06lsnr4dy99dfufvh0e3cnzljwqslcvt2v2qu",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "7324005049.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "7324005049"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus1na6nvfpzmc8menehuc0zsskzht2vghk0x6ul03",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "2560150000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "2560150000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus15jc2hdsyc4glj3kaet3k40lhrqxe7gqx4un0eu",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "349540000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "349540000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus15acw7sqca47e5gu4cz59eqrl94e4q6kyt9z95w",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "560253398740.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "560253398740"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus14frytrnwp2zkdrk8rcukeh0pu2f9dmjeexwq62",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "27587000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "27587000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus142zrdg7e8spfgypz7xhkry65mkuw26ltgwm4l5",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "425529610420.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "425529610420"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus1kqh8fjrpj2cqmunfx7fmz0rxfyx06l3fmduhfl",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "8006000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "8006000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus1cy9jhuf3cx2z33duxld7p57gtege6hfhkvfzjm",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "4363893279968.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "4363893279968"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus1cm9al6m8d02yrhc6n8v5z80c0rmnljsf2jpsna",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "19135079974.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "19135079974"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus1e8ck666s6dped2q0rhdepfxt3dkrck2ut9epx4",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "204650000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "204650000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus1e06pgha4dlcqvsq43udzerh564cw4wk9dhevge",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "94725581413.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "94725581413"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus1entd98ckj04wpdn8ce73ma87swvmgrk3dlnfxv",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "42570000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "42570000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus16ars5rflyxqkfamdfs96fj6ncz27xuvw3dt52f",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "12870000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "12870000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus1m4rtxl4lq4vjkcdyfxes5r3q2zr9uths7rq9zc",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "177290595945.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "177290595945"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus1mlawj53xggwzy6v0fpgdycuyfhefswrvf2z6vh",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "8301213457401.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "8301213457401"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus1u2fcgat0c4xa6238t2ugx6aax56x5x7zq7exe2",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "3057981000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "3057981000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus1ukzm9fhw44pye6wj4ht7daynzswqnfxl52dppg",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "58406838652.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "58406838652"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus1a9vgr6f2ag4lkz0jrd9t2uyxp3yqagn6da3hn0",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "1319000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "1319000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus1am80fauk3gnzcr76ylg0yju4f0chen5x02wahw",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "788231680626.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "788231680626"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus17ry7yg9d55sjrtdh04xe7p723p9ckl2ynx0ny4",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "11665584318.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "11665584318"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus179nlysx2jucghsawtx4g4ct0glfwj2644vpm3s",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "345900000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "345900000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus17830e5p9dfwxjdw4lcl5eqky02envu0xt3np8d",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "10000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "10000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus1lyvc50gtq45ljnlsqg5nygufqppek79nfd3xe8",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "749040000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "749040000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "cerberus1lgu66ly24wz0x95hkhuzny754hfm9pkuvuyl4p",
+        "validator_address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+        "shares": "116710990781.000000000000000000"
+      },
+      "balance": {
+        "denom": "ucrbrus",
+        "amount": "116710990781"
+      }
+    }
+  ],
+  "pagination": {
+    "next_key": null,
+    "total": "0"
+  }
+}

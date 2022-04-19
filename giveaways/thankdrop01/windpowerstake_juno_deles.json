@@ -1,0 +1,1922 @@
+{
+  "delegation_responses": [
+    {
+      "delegation": {
+        "delegator_address": "juno1qfe0frzed3e5jdgds9ly4lp7txhtvd45uv039k",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "2000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "2000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1qtgjg2pm7jje48damnqlwk93jr6lv2jt3h4849",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "2000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "2000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1pp3rrx553567neppncl4thk6eltahwm42tuegz",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "2000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "2000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1pphmpcgq3fufwuchv359mnh8xz855ul3l29qg2",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "6000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "6000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1papm4yaclxtc8392qqwmrwg9nmtnjr3gxfyx0z",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "2100000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "2100000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1zppgchdw3a4kvyhxl8x6w3m4whh7x7gsjp330l",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "20000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "20000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1zdxzpcjafydkw30j8lwsjdd2dxnhdaa47tjgul",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "25117070.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "25117070"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1zsf2fs59kqqhm9u9yvzexf0tgqdqvwc0t2cgqs",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "7203643.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "7203643"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1zkwy05d8lee2xc3zkz8wnyzld8kwug0mcmnzph",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "2154000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "2154000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1zl68y0c60uyhalp6m98s2ggsmlmkfmcdajsrll",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "2000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "2000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1rxc447drylze730ta5z5ltmzpd6en06cdymy02",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "8100000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "8100000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1r8f2c2kdt7veq470g4ghxv6yzfwcl0df5kjqpz",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "1000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "1000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1r286xa5e5cn06rtwfwjmf736z9y88l68y2s9t7",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "10000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "10000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1yz3ajgnkpcf37vwa4dct46pjprcj9edzvu9m5j",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "1000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "1000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1y4qs5043t8fq0637tmu5l5yrw3nhwmfnx3840u",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "40000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "40000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1ykqfsmrw0uk4fcnycpp60a0cdg0xlsmced6c8x",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "30000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "30000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno19r7mhazzqp4vu4qewhd5r3tfdtdd8ejfa8lvsk",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "6000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "6000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno190g5j8aszqhvtg7cprmev8xcxs6csra7xnk3n3",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "10000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "10000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno19j57s4s3eu6kpdr0700gcaj4j4zn7kxe4mssd8",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "6012091.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "6012091"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno19jmuvluv7gu5834q0gem2dqaf8h5zf3ynhzfxj",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "5774116.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "5774116"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno19evxhrxtc2dfqgjsev9w5uafpw4usnmrh282cg",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "2000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "2000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno19asc8uk8lvd2zw5xve2nm488jaseqrjkqund6l",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "11031718.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "11031718"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1xzq7602j9t9x9sd663mewa53zdjw4fp0dwsh6z",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "100000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "100000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1xgv8awcgjmevq5cxtwwcktglvjnx5e3jk8fert",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "8500.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "8500"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1x66mwvmn8hddyljpstk84z32t6ey0sm5l2eyhk",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "100000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "100000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1xm7lau0vas7elyxuyx9e6q4pg0uh3fwyd4qygm",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "3000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "3000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno18p8qe7k3ur0ak0xavc57h2nwqndtl8vlzmlsn5",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "101113134.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "101113134"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno18xjp8cy0m3u0dtgrh2zwd5jcmcyvk4q578gf25",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "2500000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "2500000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno188nscfrz0npqwqpmnvedyvlq98lz0v3yeug9r0",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "100000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "100000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno180futm0n83mcpeyp8q6mmr0cs93u9v7uyesl38",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "9000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "9000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno18shher548zxfs00m5j2jnduz0hqfaxh3wq7ljs",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "2000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "2000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno18j0hn08z2qh0y5skcuzegzzt6fxtpd9atkfwf0",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "100000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "100000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno18k0wh2n2lqxp85h9rrp2qufuyt3etspdav4vj7",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "37114.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "37114"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno18hep38745h0rg24wtgem7sw69lp65t0tyfq0uq",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "30000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "30000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1g3l5shnqy77kwehaznn28a5ycjc6ys0ye7tm63",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "3500000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "3500000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1gn08vv6az95amm3h7n6sshz207jl4gvy3leyfz",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "150000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "150000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1g443d7t9rd35gdera0yu87dgux0g50v4a6dqfx",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "10593837.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "10593837"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1frswu85mm0t73qmahru07l3hmgrtx05g5d28l5",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "2000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "2000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1fxa8uludtua36fgj5l8rh0drvn8m0a6hve9gmj",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "20200000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "20200000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1ft6g4mp700ulrj9f3kzrp0wusqqe4ymmskgd56",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "3600000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "3600000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1fwrafxptw3v2f9af2psh5fkm6c7p240d80cv9p",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "1000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "1000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1f3jr7mje02n9l8mystcgttmyrh3wfg386ux7je",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "5620000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "5620000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno12qrggnhrclnvad2qrnlrwsemy0yzwzgrq3u0jd",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "97799.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "97799"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno12qj7l5reewf9e94003z5r53nc096aanne4px67",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "3750000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "3750000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno12rxwd5a9h2fugpx0g80mdt6rpekyerhtfczz7r",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "110000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "110000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno12fsjfefxv38m843sa8ztctlq79k65xvjp2g4r9",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "1000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "1000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno12vyyl4xf8x9tjzgcnl2p5t8jm6mw4uzrhkd4uv",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "1545206.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "1545206"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno12dpj8002us083r7ns534tsrzrefmytj9kukddq",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "100000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "100000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1tf9sln3e9eeeuqqjlg4ffqr63gm23vfuz26kru",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "5702042.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "5702042"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1t34fwuzgdcxl37403wu8gx94mazl6lqtf5ahlw",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "25000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "25000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1ta825xesvuaj2npyacr7pdfvktwp2rp0pmyfx2",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "1000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "1000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1vqj8du37hwzdc0eyfpews66n65a993xm2vprx5",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "3000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "3000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1vzt738z8tsxmw8w0cr4fzzwrvwatxntquznwvw",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "260000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "260000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1v3y2evk9vrkxdfnn2gxx96r8zjejyr5z4wjjqr",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "25000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "25000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1v7gsdfm09zdv2l5yyzn2pw28sfnuhj46jgjxwq",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "20778861.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "20778861"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1vl3nwppfnew6a566m0997yndcywj20pmuur6y5",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "85000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "85000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1vlc2wpeqc5fpyfwmxhyrjh45eapfcxp93t8e8p",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "76295286.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "76295286"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1dzx3fuh5vljvs2jthdxygxg3j7wvz8ru9084lp",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "6366902.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "6366902"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1dr29x3l3ykhhpdx3rzkkuz0ft95qscsncj8z68",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "100.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "100"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1d969n59xgdw7xsl3kr2tt00trlrkc8zlv8j5hh",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "100000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "100000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1d8dqlnc7v24lp4442tv9tkrt24pp0y0x3hmwkt",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "1000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "1000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1dfkdl7a5ndx62sw7xv22c9340pywvxw4a9ca2n",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "10500692.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "10500692"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1dtutwym4x2l5vdjkswk3f67y4yyf83vwgtzp5w",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "1300000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "1300000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1wrj4spg6ntpedamdhgffk0mk04jpe8ku8fakkl",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "1000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "1000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1wtz20fm4d8fsfmfjddp8ytd0sx9ftgpkulcmre",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "2300.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "2300"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1wn9dkaxwq37t9m6lg3haffgqnfwssrxm7qmdwv",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "6517184.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "6517184"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1w4vq6dmdy8jd42snkgu9ndkfhzm7xryzvnxzvr",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "4000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "4000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno10893eq4mmxmjstyanhx33x0ae89gqf8mnd69mg",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "15000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "15000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno102l2g72vy5fs8lvw7vmctksymc963f2vy37fnv",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "50000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "50000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno100xcnt5x5c6z98dr9pmmtmxpq7fzykx4ql4skq",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "7010849.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "7010849"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno10j66n0yj6yjcqxqnhugxrkqt0h8rgunc0y4elg",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "5083761.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "5083761"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno10nn7ry5wdgmwwxu5hgzd9vus49japmkvkeegn5",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "2000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "2000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1047eaurzpwspfqkctrrayul0gyzwhr3yy2rdrp",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "25000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "25000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno10ltfttn2r9p4duparhj7h25zuhnezfh8ajx8z6",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "4000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "4000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno10ll53744ehtu7rjh9sdcvps2vhp2jharzn5u3v",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "11063591.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "11063591"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1s2n626z828dftlc8yp2jk6hu2l8cpldtdkuggy",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "500000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "500000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1s46jmv3c05usk6yk50tyy8axc4t9rglrwrzzx3",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "100000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "100000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1seg8rwkahc2g9flfp388su3704nxugpseu9fz3",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "1000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "1000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1s6hcruf4ke0crpyc8yvar8nhqexeesrelmd6ln",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "2300.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "2300"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1slntuarffpkfv5pjpf3qjrtpluvulearsee3u9",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "17682814.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "17682814"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno138ugz86m9qedpke0daldt53m7fhn5nd2af3fp8",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "100000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "100000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno13fwjp33889va2an3ss64u70dxkhhyrw0l0k4zk",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "700000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "700000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno13306hrp8e9y9z8lv5h2eccupffj8kw95f8kp5y",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "130000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "130000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno137jtvhmhjvjhe4vlcxd9u0m4vkvummr9ffhf0w",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "1000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "1000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1jqf74zmz9g0d7t2mvk5004aak9mzhs02qalvzc",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "163000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "163000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1jpdmkaf0g8yz55ujuvrqkhttep8hvcqt77way3",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "1000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "1000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1jxpztalf3skjftyrlf3tpd3c94g2nqkad2wnqn",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "85000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "85000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1jwrerknh5un6psyhtaewdate6p4ts8awc5s6yl",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "2000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "2000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1jsr89zla6nqpcuv29shpn0ym9upx6v65jt9l0z",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "100000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "100000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1js2p0vzlwh4r0wruz8hy29m73vn3jejpscpjmx",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "45000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "45000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1jjk4f7gzp0lu2auars383g6cc6s4xrt2950jpe",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "2000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "2000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1je3540y2w4xw5mtw37j3nsqu67fzy037wwf3gs",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "18000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "18000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1nrzrl3hlcyu2q0rtjnfvfr20453f8wtkre7vnp",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "2654207.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "2654207"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1n9q2mst8nqj400j4w5t6ksfcwxnk2a7659w6au",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "1200000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "1200000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1n06lsnr4dy99dfufvh0e3cnzljwqslcvpl0cjt",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "23942486.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "23942486"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno159lsyu85tsln7ydkrz87d49n24ua7nmwn4uhnp",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "10160000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "10160000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno15898gf723e3hp5l0da56x6qww5qlncjdk2csce",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "80000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "80000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1523cf0t3yz3wja8etkurzyqjhrercems7vg8y4",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "1100000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "1100000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno15tz38w4445uc23zmyn60mmfr9umnr3w43a32ky",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "10000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "10000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno150anuvp4qcd6ewwm7aq779qarewcqw90xfznn7",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "100000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "100000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno15jc2hdsyc4glj3kaet3k40lhrqxe7gqxlfsatt",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "238500000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "238500000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno15mhtyx9768rkjz0aqtxmwd5nvxnrcrsp7mrsfd",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "68500000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "68500000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno14qn6ztsr0wsmz9tuy4qypss5jch8gzzdgyamzg",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "2000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "2000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno14q4pmnakyy6p67az0nspy7dgtv9mt2zxnlvtvc",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "9763.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "9763"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno14yf3ny5uyyz5y73wlvamzxx4sen03c66xk9v04",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "300000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "300000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno14yjt8qdhhgem0wmtkxd22m5vhpcpxdv5y50xwy",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "50000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "50000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno142zrdg7e8spfgypz7xhkry65mkuw26ltzmc8dr",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "1490380000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "1490380000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno14stha7tcpl38sr5gmpvsvd4skwptp65ryct7lh",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "15000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "15000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno14nxjkl0q83s47h08cnmazklk8uwgesl62e8xjd",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "10000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "10000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno14ngsnkuzps3jeumx9g5za8ynaleq4qafshmnjg",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "111000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "111000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno14eapfwpqmvgrzqvfc5y2sy7fsnr9rp54tgwmwu",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "12565546.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "12565546"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno14ux7ufwa7hjxl30sd7wfv7ka80nx3c7xa3vx46",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "500000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "500000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1kq4tyfwhaw7ayfpqyyyyck5pzv6m5wwvmrtqrj",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "100000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "100000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1k96j0xw7346xndv5w8f2kgt7vxceqens8q4aal",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "1000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "1000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1kfvk20lhr05dsnrcxtaalzmcsdjjv9tuhengfc",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "25399334.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "25399334"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1kvejd5ne02j0dke40xc5m8vc60l864pufgex6g",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "5000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "5000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1k7g49nge09xkea206t7ajl39qzxhugyc8wsn5l",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "7138721.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "7138721"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1hrgkslgly78hwnqeysmj9m25l6aetfkyn57v5c",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "2300.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "2300"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1hxf6ayccp8hher0rq0dy3rrk624v5z5ddw5y5w",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "43078215.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "43078215"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1h0qwpv0l2spu7h988dvh92q0v08gkkwsxsfr4d",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "78300000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "78300000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1hktq9ypcjkth0ftu4zlhl44crm57g5zsx0nk4m",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "245043559.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "245043559"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1hhwj7z829lls0mqz3907u7r4xays94a8tjmfqx",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "21853011.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "21853011"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1czxfjwladw79wrzjsjhxtphxmcutmtxxkx8qq8",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "2600000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "2600000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1cf69yquscjfe9epr0dw9r05dd07regknayjlwt",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "1000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "1000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1c0jpzyr7r99s5uu9gzc83axc7cn0hh2sq8370g",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "5014164.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "5014164"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1c66qnkapap6stxn4sv64pdmymnqhta90gu5ytx",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "700000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "700000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1cutgqz7h0f4m994wzslw0s9n69qlmat0k3m2sx",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "44144400.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "44144400"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1culeye5urlhzrzec288sq43wmjdtcmmx4dtsee",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "18459.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "18459"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1e8ck666s6dped2q0rhdepfxt3dkrck2ups6n5z",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "13700000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "13700000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1egnckvwlre8hz93u8l3tc4jyp6hky2hkxvj9e5",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "10100000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "10100000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1edz0jjwle27syxwr90y9vn40tt2g8wxanghj48",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "38026401.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "38026401"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1eja6nz0fm8zk9wz8jgdv3x0ae5jteg4qr66zk2",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "2000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "2000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1e72tqmvq603qrgsn3p7qxhhnl9pnl35j3h5d38",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "10000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "10000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno16p0yd8ecgm7cxuzl5vywrlqzdlumkgj94z5w2j",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "5000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "5000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno169m3g3lwv38m8w6lu9jxwmx35a0g3n5vfz4j0z",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "22323567.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "22323567"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno163mcl3d30xpdc0uzef0m0vh0ayel2plj48ndsr",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "100000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "100000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1mqhclflz3m3etkrv52lcudlrlzmkxtpgmqqde2",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "1500000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "1500000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1m8g7ujfpthfgxp2djad6veywgj5043wmheqh04",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "200000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "200000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1mdmp8y26f33paxtpm7g0gvtyw88772k0z93pym",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "2202162.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "2202162"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1m4z6c9f0ejr7nd7cpusvpua3yckyueqkd7ksy8",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "10000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "10000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1m4rz7rc9kqe3y80p6560yr8ppz0hu2ft5ftmal",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "117569.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "117569"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1mcfyms7yaawjp56w3jyuqng5whhpcksnzfevel",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "2228428.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "2228428"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1mclsy9uesj8wku9tfzrlpx3acg8h7z5kayux4k",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "21348849.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "21348849"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1meeffrydc7htfy8n3rsvcwydd6pzcm9c659g5f",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "3382959.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "3382959"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1mljndg07gzr4lqfaghycp60hjl3pclyu9nkf3m",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "10140000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "10140000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1upv66evk5jwjv42n8rs7l8vj6smqdz5es0f60m",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "10372747.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "10372747"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1up6uzd75ukz42uxynawl72kqq2fulqnvmapytf",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "1000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "1000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1utt9uw76ay4xua5wr94mhuyc2w2u2l43sm4up7",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "200000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "200000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1u4ve2jj0rpk0f3gwevvlj9xdqk3tax3cuckle6",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "80000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "80000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1u4a8n8ml3q26kqv4paz8vvn4pa5ctd7f2unsxk",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "2000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "2000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1ukzm9fhw44pye6wj4ht7daynzswqnfxl7lwnnl",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "1890882.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "1890882"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1ukdrzvtmg3n0k7p3gan7drj7ym94pu756fnv57",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "4056954.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "4056954"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1u6fzs82g3l0n8vvyp298laz83le0srs3d4npcl",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "10481668.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "10481668"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1u7h6dkwsszuv84ka74uqn6jz7xdspjyd5j70kk",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "1053412865.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "1053412865"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1aq2qrrr9jqdt6wj32edlazfy64ajt9fvq5ahxu",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "870000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "870000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1apfayyxjl2rzxn005sjjdauy7k7efq40luknhl",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "41027602.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "41027602"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1artwxrr62vq879lznkkp8cn7jgq86f5qtzmjzm",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "102986.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "102986"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1a9vgr6f2ag4lkz0jrd9t2uyxp3yqagn68gj9pc",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "30999999.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "30999999"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1a83n4zhsyf7w52xrsjajp5ta0rng3tgk9nlp9q",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "70000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "70000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1a8u47ggy964tv9trjxfjcldutau5ls705djqyu",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "10033000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "10033000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1a0pl05w882hv3njtyvqefjkdclynmq24xt0auf",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "200000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "200000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1a3pt6jlmp0xlkh0x0tuylw0zwlmkgk4s8mjruh",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "102000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "102000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1a48f883fpn5j52fl2tzqfy822zlztfuz85smmc",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "100.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "100"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1am80fauk3gnzcr76ylg0yju4f0chen5x9ld09e",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "11354516233.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "11354516233"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno172yk860dayhlgcjw7l58p5s5lkra5gj2mcf972",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "2300.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "2300"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno17taxj6gs0asrjpqzdxzxsrk0zdt2e4llldhmxq",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "10223288.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "10223288"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno17dsc5tlt9z2snqafzzv43cxxzu4j4zcu3jerp2",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "200000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "200000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno17329x9x02qepkaqfx8rpyvn2x0pp5v3fq8pt69",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "36258870.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "36258870"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno17h38jt0wej5jfuz2slvyjftr25cxzv4tp3ycjd",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "7360399229.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "7360399229"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno17ezpm9dq4clg6rgsecs97eh9r7daywhadrslff",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "30490181.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "30490181"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1lp5ly64ees0vxzyjluan2tm69tgm8mvcnx0m9p",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "3000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "3000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1lgrxreqa7xfy978dg2zry8hg3pkzg2n909ceyw",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "6410000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "6410000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1lnz0zkkzp5x93uzumuc0aeslfg54fgv84l0cd4",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "1000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "1000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "juno1lhasxv6g9z6hvlrckzq0ljmzga4ty2r272tk2g",
+        "validator_address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+        "shares": "1580000.000000000000000000"
+      },
+      "balance": {
+        "denom": "ujuno",
+        "amount": "1580000"
+      }
+    }
+  ],
+  "pagination": {
+    "next_key": null,
+    "total": "0"
+  }
+}
