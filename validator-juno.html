@@ -125,7 +125,7 @@ An algo will be running soon in order to report the missed blocks in 10 minute i
         </tr>
         <tr>
             <td>2022-04-21 20:20:00Z</td>
-            <td>10</td>
+            <td>10🔧</td>
             <td>99.9</td>
             <td></td>
         </tr>
@@ -134,13 +134,27 @@ An algo will be running soon in order to report the missed blocks in 10 minute i
 
 <h4>Terms & Concepts</h4>
 <ul>
-<li>*Total Bytes Written: This node contains a juno|huahua copy. The HDD is monitored for write operations in order to learn the MTBF with TBW as the time passing variable.</li>
+<li>2022-02-27 around 13.30 UTC, we did planned maintenance around the Juno node. Alltogether it took 7 minutes (67 missed blocks, including peering).</li>
+<li>*Total Bytes Written: This node has been updated with a new NVMe drive, and therefore the TBW needs to be worked around.</li>
 <li>✝: Particular component, serialized by us. Details about each part will follow.</li>
 <li><sup>16h</sup>:  16h aggregates (~10000 Blocks)</li>
 <li>ToDo: I/O write errors. This will be helpful to know when we might need to discard the SSD. This should be kept at zero and the general recommendation is not to continue running the SSD in a node where the first IO writing failure occured; therefore this detector will be a good indicator of the end of life of the SSD in order to trigger a replacement.</li>
 <li>Σ : Cumulative sum during the entire life of the applicable component.</li>
-<li>🔧: Node under planned maintenance. 11.04.22: We did a full backup after the security patch in order to have a fallback (just in case).</li>
+<li>🔧: Node under planned maintenance. 21.04.22: Juno security patch 3.1.1.</li>
 </ul>
+
+<h4>Alternative tools in order to monitor your favourite nodes</h4>
+<ul>
+<li>Juno Analytics by Smart Stake: <a href="https://juno.smartstake.io/">https://juno.smartstake.io/</a></li>
+<li>juno-stats by [block pane]: <a href="https://juno-stats.blockpane.com/">https://juno-stats.blockpane.com/</a></li>
+</ul>
+
+<h4>On slashing parameters</h4>
+<ul>
+<li>Medium article on the start stages of the hub, explaining slashing: <a href="https://medium.com/node-a-team/understanding-few-key-features-of-cosmos-hub-87394317d10a">https://medium.com/node-a-team/understanding-few-key-features-of-cosmos-hub-87394317d10a</a></li>
+</ul>
+
+<br>
  
 <p><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /> Author: @windpowerstake. This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License.</a>.
 </div>
