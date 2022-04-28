@@ -2,7 +2,7 @@
 #EVMOS threshold = 1.5 Evmos
 #1.5 evmos
 #eligible addresses for the lottery
-#28.04.2022 - 09:30 UTC
+#28.04.2022 - 15:00 UTC
 evmos1qmpmzdesg9gr5wpyzkssayldnhk3pa8x8ap00u
 evmos1jkklgt8wr0v58aa6w2d8rwezf9qm39zdkyvx79
 evmos1jhqkc8uyax7exnyne7uluekq249vhgkme9e0ah
@@ -33,7 +33,6 @@ evmos1as87t6jmydepgvv8ymkwrmyf73r97hpyl5d6p7
 evmos1j2j843aaggzsfn243rukp6wn8uv3c8nejnewdx
 evmos1t3cqs7rs5sp2wgjqhm8ya0mzztdudp3t6ep560
 evmos19uhr7hfw8x8tdgs64jy4ya06w6t09xq2zq4xx7
-evmos1wqfx3499hjrh4snxn7q28jpjlvl0t2csgvy7y6
 evmos1ptpnmjfsp5yuqvpccqvqtzqlnwa438vvkghgal
 evmos1yh0pjyn4e9ar7jncuj6syjv4t5qppj8p2eek3t
 evmos1vhlawklv5r3guvu8fs0xxevr6x4q3vxksyszyh
