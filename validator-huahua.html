@@ -48,12 +48,6 @@ An algorithm will be running soon in order to report the missed blocks in 10 min
     </thead>
     <tbody>
         <tr>
-            <td>2022-05-05 01:20:00Z</td>
-            <td>4</td>
-            <td>99.96</td>
-            <td>131.876</td>
-        </tr>
-        <tr>
             <td>2022-05-05 18:00:00Z</td>
             <td>4</td>
             <td>99.96</td>
@@ -121,9 +115,15 @@ An algorithm will be running soon in order to report the missed blocks in 10 min
         </tr>
         <tr>
             <td>2022-05-13 09:20:00Z</td>
-            <td>1527</td>
+            <td>1527💥</td>
             <td>84.73</td>
             <td>141.103</td>
+        </tr>
+        <tr>
+            <td>2022-05-14 02:00:00Z</td>
+            <td>1735</td>
+            <td>82.65</td>
+            <td>141.780</td>
         </tr>
     </tbody>
 </table>
@@ -135,7 +135,8 @@ An algorithm will be running soon in order to report the missed blocks in 10 min
 <li><sup>16h</sup>:  16h aggregates (~10000 Blocks)</li>
 <li>ToDo: I/O write errors. This will be helpful to know when we might need to discard the SSD. This should be kept at zero and the general recommendation is not to continue running the SSD in a node where the first IO writing failure occured; therefore this detector will be a good indicator of the end of life of the SSD in order to trigger a replacement.</li>
 <li>Σ : Cumulative sum during the entire life of the applicable component.</li>
-<li>🔧: Node under planned maintenance. Installing a spare nvme hard drive.</li>
+<li>🔧: Node under planned maintenance.</li>
+<li>💥: Unplanned maintenance. On Friday 13.05.2022, we found out our node failing on random blocks and struggling to recover on each shot, leading to loss of some rows of blocks and less uptime per block than normal. When we found about this, we removed the address book from the blockchain and added the newest fresh peers available (suspecting some nodes shut down maybe)... After this operation we switched to a handover node and we spun up other three nodes in order to make our network surface wider. 1 node was prepared for signing, with optimized pruning and a faster sdd (wd sn750). Another node was mounted with a raid 0 redundant drive with a pair of NVMes in order to serve as archive node. Another node was equiped with our best NVMe at home and it was rapidly made catch up with Polkachu's snapshot. Therefore we were fast recovered, allowing for the preparation times and handover times.</li>
 <li>⚡: Power outtage (if any), nodes are covered by an UPS, and now all the fiber routers are also covered by UPS. We would be ready to cover power outtages and/or switch node safely if necessary.</li>
 </ul>
  
