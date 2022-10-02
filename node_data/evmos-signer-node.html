@@ -1,0 +1,867 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rev="made" href="mailto:windpowerstake@protonmail.com" />
+<link rel="stylesheet" href="styles.css">
+<meta name="description" content="Windpowerstake validator page" />
+<meta name="keywords" content="Validation, blockchain, decentralization" />
+<title>Windpowerstake validator</title>
+</head>
+<body>
+
+<div id="Menu">
+	<hr/>
+	<a href="../index.html" title="Home page">Home page</a><br />
+	<a href="../about.html" title="About">About</a><br />
+	<a href="../energy.html" title="Energy usage">Energy</a><br />
+	Uptime:(on rework)<br />
+	+ Stats/power:<br />
+	<div style="margin-left: 10px"><a href="wind10-node.html" title="Wind10">Wind10 (old uni-2)</a></div>
+	<div style="margin-left: 10px"><a href="wind05-node.html" title="Wind05">Wind05-Juno(Watts)</a></div>
+	<a href="../infrastructure.html" title="InfraOps">Infrastructure</a><br />
+	<a href="../winddao.html" title="WIND DAO">WIND DAO</a><br />
+	<a href="../governance.html" title="Governance">Governance</a><br />	
+	<a href="../donation.html" title="Donation">Our donations</a><br />
+	<a href="../contact.html" title="Contact us">Contact us</a><br />
+</div>
+
+<div id="Content">
+
+
+This page focuses on logging RAM and Power Usage of an Evmos Validator (windpowerstake).
+<br />
+Other networks' power samples: <a href="wind05-node.html" title="Wind05">Wind05-Juno(Watts)</a> | <a href="wind10-node.html" title="Validating Juno Testnet">uni-3 on Wind10 (Watts)</a>
+
+<br>
+
+<p>
+<br>
+
+<h4>Table 1. Performance of the Evmos signer node (Actual Data, semi-automated feed).</h4>
+<table class="styled-table">
+    <thead>
+        <tr>
+            <th>Timestamp (UTC)<sup>16h</sup></th>
+            <th>RAM usage [GB] <sup>Inst</sup></th>
+            <th>Power [Watt] <sup>Inst</sup></th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        </tr>
+        <tr>
+            <td>2022-09-01 08:00:00Z</td>
+            <td>20.18</td>
+            <td>92.177</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-01 12:00:00Z</td>
+            <td>20.14</td>
+            <td>101.413</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-01 16:00:00Z</td>
+            <td>19.36</td>
+            <td>109.451</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-01 20:00:00Z</td>
+            <td>20.18</td>
+            <td>114.22</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-02 00:00:00Z</td>
+            <td>19.8</td>
+            <td>108.048</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-02 04:00:00Z</td>
+            <td>20.17</td>
+            <td>105.936</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-02 08:00:00Z</td>
+            <td>20.14</td>
+            <td>93.796</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-02 12:00:00Z</td>
+            <td>20.27</td>
+            <td>143.63</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-02 16:00:00Z</td>
+            <td>20.12</td>
+            <td>104.919</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-02 20:00:00Z</td>
+            <td>20.3</td>
+            <td>96.817</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-03 00:10:00Z</td>
+            <td>20.06</td>
+            <td>93.758</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-03 04:10:00Z</td>
+            <td>19.92</td>
+            <td>96.147</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-03 08:10:00Z</td>
+            <td>20.22</td>
+            <td>122.915</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-03 12:10:00Z</td>
+            <td>20.2</td>
+            <td>119.639</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-03 16:10:00Z</td>
+            <td>19.93</td>
+            <td>119.907</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-03 20:10:00Z</td>
+            <td>20.07</td>
+            <td>111.536</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-04 00:10:00Z</td>
+            <td>19.89</td>
+            <td>103.072</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-04 04:10:00Z</td>
+            <td>20.13</td>
+            <td>96.161</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-04 08:10:00Z</td>
+            <td>20.2</td>
+            <td>120.875</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-04 12:10:00Z</td>
+            <td>20.21</td>
+            <td>134.018</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-04 16:10:00Z</td>
+            <td>20.27</td>
+            <td>100.192</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-04 20:10:00Z</td>
+            <td>19.37</td>
+            <td>101.982</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-05 00:10:00Z</td>
+            <td>20.07</td>
+            <td>93.952</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-05 04:10:00Z</td>
+            <td>20.13</td>
+            <td>-1</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-05 08:20:00Z</td>
+            <td>20.04</td>
+            <td>106.852</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-05 12:20:00Z</td>
+            <td>20.07</td>
+            <td>91.449</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-05 16:20:00Z</td>
+            <td>20.23</td>
+            <td>107.434</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-05 20:20:00Z</td>
+            <td>19.21</td>
+            <td>107.019</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-06 00:20:00Z</td>
+            <td>19.87</td>
+            <td>155.2</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-06 04:20:00Z</td>
+            <td>20.07</td>
+            <td>94.338</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-06 08:20:00Z</td>
+            <td>20.14</td>
+            <td>106.247</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-06 12:20:00Z</td>
+            <td>19.41</td>
+            <td>92.641</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-06 16:20:00Z</td>
+            <td>20.15</td>
+            <td>95.494</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-06 20:20:00Z</td>
+            <td>19.65</td>
+            <td>107.708</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-07 00:20:00Z</td>
+            <td>20.16</td>
+            <td>101.484</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-07 04:20:00Z</td>
+            <td>20.07</td>
+            <td>128.29</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-07 08:20:00Z</td>
+            <td>20.16</td>
+            <td>94.955</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-07 12:30:00Z</td>
+            <td>20.24</td>
+            <td>-1</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-07 16:30:00Z</td>
+            <td>20.08</td>
+            <td>126.921</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-07 20:30:00Z</td>
+            <td>19.74</td>
+            <td>98.481</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-08 00:30:00Z</td>
+            <td>19.91</td>
+            <td>117.794</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-08 04:30:00Z</td>
+            <td>20.22</td>
+            <td>97.609</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-08 08:30:00Z</td>
+            <td>20.21</td>
+            <td>121.335</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-08 12:30:00Z</td>
+            <td>20.17</td>
+            <td>90.644</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-08 16:30:00Z</td>
+            <td>20.26</td>
+            <td>94.893</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-08 20:30:00Z</td>
+            <td>19.41</td>
+            <td>103.843</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-09 00:30:00Z</td>
+            <td>20.31</td>
+            <td>107.441</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-09 04:30:00Z</td>
+            <td>20.26</td>
+            <td>107.639</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-09 08:30:00Z</td>
+            <td>20.49</td>
+            <td>99.05</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-09 12:30:00Z</td>
+            <td>20.4</td>
+            <td>92.133</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-09 16:40:00Z</td>
+            <td>20.5</td>
+            <td>101.875</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-09 20:40:00Z</td>
+            <td>19.76</td>
+            <td>105.299</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-10 00:40:00Z</td>
+            <td>20.48</td>
+            <td>107.383</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-10 04:40:00Z</td>
+            <td>20.39</td>
+            <td>119.02</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-10 08:40:00Z</td>
+            <td>19.9</td>
+            <td>92.049</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-10 12:40:00Z</td>
+            <td>20.35</td>
+            <td>106.088</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-10 16:40:00Z</td>
+            <td>20.4</td>
+            <td>92.449</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-10 20:40:00Z</td>
+            <td>19.47</td>
+            <td>95.177</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-11 00:40:00Z</td>
+            <td>20.32</td>
+            <td>105.666</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-11 04:40:00Z</td>
+            <td>20.46</td>
+            <td>93.685</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-11 08:40:00Z</td>
+            <td>20.34</td>
+            <td>130.285</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-11 12:40:00Z</td>
+            <td>20.44</td>
+            <td>123.351</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-11 16:40:00Z</td>
+            <td>20.46</td>
+            <td>123.057</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-11 20:40:00Z</td>
+            <td>19.64</td>
+            <td>105.438</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-12 00:50:00Z</td>
+            <td>20.43</td>
+            <td>126.768</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-12 04:50:00Z</td>
+            <td>20.41</td>
+            <td>112.761</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-12 08:50:00Z</td>
+            <td>20.19</td>
+            <td>115.349</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-12 12:50:00Z</td>
+            <td>20.52</td>
+            <td>121.292</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-12 16:50:00Z</td>
+            <td>20.42</td>
+            <td>93.42</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-12 20:50:00Z</td>
+            <td>19.63</td>
+            <td>105.514</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-13 00:50:00Z</td>
+            <td>20.24</td>
+            <td>94.909</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-13 04:50:00Z</td>
+            <td>20.45</td>
+            <td>97.118</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-13 08:50:00Z</td>
+            <td>20.41</td>
+            <td>98.569</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-13 12:50:00Z</td>
+            <td>20.46</td>
+            <td>92.854</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-13 16:50:00Z</td>
+            <td>20.44</td>
+            <td>119.531</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-13 20:50:00Z</td>
+            <td>19.75</td>
+            <td>110.973</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-14 00:50:00Z</td>
+            <td>20.31</td>
+            <td>111.214</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-14 05:00:00Z</td>
+            <td>20.47</td>
+            <td>106.094</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-14 09:00:00Z</td>
+            <td>20.58</td>
+            <td>111.527</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-14 13:00:00Z</td>
+            <td>20.52</td>
+            <td>100.483</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-14 17:00:00Z</td>
+            <td>20.59</td>
+            <td>122.396</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-14 21:00:00Z</td>
+            <td>19.52</td>
+            <td>119.354</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-15 01:00:00Z</td>
+            <td>20.37</td>
+            <td>106.067</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-15 05:00:00Z</td>
+            <td>20.45</td>
+            <td>105.559</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-15 09:00:00Z</td>
+            <td>20.47</td>
+            <td>104.618</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-15 13:00:00Z</td>
+            <td>20.48</td>
+            <td>107.334</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-15 17:00:00Z</td>
+            <td>20.39</td>
+            <td>94.376</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-15 21:00:00Z</td>
+            <td>19.29</td>
+            <td>104.7</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-16 01:00:00Z</td>
+            <td>20.31</td>
+            <td>114.005</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-16 05:00:00Z</td>
+            <td>20.43</td>
+            <td>100.404</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-16 09:10:00Z</td>
+            <td>20.59</td>
+            <td>98.268</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-16 13:10:00Z</td>
+            <td>20.54</td>
+            <td>110.574</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-16 17:10:00Z</td>
+            <td>20.05</td>
+            <td>125.719</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-16 21:10:00Z</td>
+            <td>19.58</td>
+            <td>106.702</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-17 01:10:00Z</td>
+            <td>20.57</td>
+            <td>-1</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-17 05:10:00Z</td>
+            <td>20.42</td>
+            <td>-1</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-17 09:10:00Z</td>
+            <td>20.55</td>
+            <td>93.17</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-17 13:10:00Z</td>
+            <td>20.61</td>
+            <td>110.159</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-17 17:10:00Z</td>
+            <td>20.5</td>
+            <td>120.436</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-17 21:10:00Z</td>
+            <td>19.7</td>
+            <td>115.766</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-18 01:10:00Z</td>
+            <td>20.42</td>
+            <td>116.799</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-18 05:10:00Z</td>
+            <td>20.48</td>
+            <td>95.75</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-18 09:10:00Z</td>
+            <td>20.61</td>
+            <td>94.72</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-18 13:10:00Z</td>
+            <td>20.66</td>
+            <td>104.333</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-18 17:20:00Z</td>
+            <td>20.7</td>
+            <td>104.147</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-18 21:20:00Z</td>
+            <td>20.27</td>
+            <td>106.546</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-19 01:20:00Z</td>
+            <td>20.63</td>
+            <td>117.084</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-19 05:20:00Z</td>
+            <td>20.5</td>
+            <td>117.178</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-19 09:20:00Z</td>
+            <td>20.44</td>
+            <td>91.714</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-19 13:20:00Z</td>
+            <td>19.94</td>
+            <td>126.533</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-09-19 17:20:00Z</td>
+            <td>20.61</td>
+            <td>103.047</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2022-10-02 13:20:00Z</td>
+            <td>23.17</td>
+            <td>108.256</td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+<h4>Terms & Concepts</h4>
+<ul>
+<li>*Total Bytes Written: The HDD is monitored for write operations in order to learn the MTBF with TBW as the time passing variable.</li>
+<li>✝: Particular component, serialized by us. Details about each part will follow.</li>
+<li><sup>16h</sup>:  16h aggregates (~10000 Blocks)</li>
+<li><sup>Inst</sup>:  Instantaneous measurement at timestamp, 1-off.</li>
+<li>ToDo: I/O write errors. This will be helpful to know when we might need to discard the SSD. This should be kept at zero and the general recommendation is not to continue running the SSD in a node where the first IO writing failure occured; therefore this detector will be a good indicator of the end of life of the SSD in order to trigger a replacement.</li>
+<li>Σ : Cumulative sum during the entire life of the applicable component.</li>
+<li>🔧: Node under planned maintenance. (if any)</li>
+<li>💥: Unplanned maintenance. (if any) </li>
+<li>⚡: Power outtage (if any), nodes are covered by an UPS, and now all the fiber routers are also covered by UPS. We would be ready to cover power outtages and/or switch node safely if necessary.</li>
+</ul>
+ 
+<h4>Alternative tools in order to monitor your favourite nodes</h4>
+<ul>
+<li>TBD</li>
+</ul>
+
+<h4>On slashing parameters</h4>
+<ul>
+<li>Medium article on the start stages of the hub, explaining slashing: <a href="https://medium.com/node-a-team/understanding-few-key-features-of-cosmos-hub-87394317d10a">https://medium.com/node-a-team/understanding-few-key-features-of-cosmos-hub-87394317d10a</a></li>
+</ul>
+
+<br>
+<p><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /> Author: @windpowerstake. This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License.</a>.
+</div>
+</body>
+</html>
